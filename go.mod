@@ -11,7 +11,7 @@ require (
 	gitea.com/go-chi/captcha v0.0.0-20240315150714-fb487f629098
 	gitea.com/go-chi/session v0.0.0-20251124165456-68e0254e989e
 	gitea.com/lunny/dingtalk_webhook v0.0.0-20171025031554-e3534c89ef96
-	gitea.com/lunny/levelqueue v0.4.2-0.20230414023320-3c0159fe0fe4
+	gitea.com/lunny/levelqueue v0.5.0
 	gitea.dev/actions-proto-go v0.6.0
 	gitea.dev/sdk v1.1.0
 	github.com/42wim/httpsig v1.2.4
